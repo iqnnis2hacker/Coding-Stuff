@@ -1,0 +1,1 @@
+A simple "umrechner" thats a unit converter. The programm has no UI so it just operates in CMD of Windows. You can convert only from KM/H in M/S (Kilometers per Hour in Meter per Second) and vice versa. Feel free to add more. I am still learning how to add a UI.
